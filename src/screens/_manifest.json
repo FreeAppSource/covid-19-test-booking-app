@@ -1,0 +1,146 @@
+{
+ "app": "COVID-19 Test Booking App",
+ "start": "splash",
+ "screens": [
+  {
+   "slug": "splash",
+   "name": "Splash",
+   "page": "Page 1",
+   "w": 375,
+   "h": 811,
+   "elements": 3,
+   "links": 0
+  },
+  {
+   "slug": "login",
+   "name": "Login",
+   "page": "Page 1",
+   "w": 375,
+   "h": 811,
+   "elements": 12,
+   "links": 2
+  },
+  {
+   "slug": "register",
+   "name": "Register",
+   "page": "Page 1",
+   "w": 375,
+   "h": 811,
+   "elements": 17,
+   "links": 2
+  },
+  {
+   "slug": "wizard-02",
+   "name": "Wizard 02",
+   "page": "Page 1",
+   "w": 375,
+   "h": 811,
+   "elements": 34,
+   "links": 2
+  },
+  {
+   "slug": "wizard-01",
+   "name": "Wizard 01",
+   "page": "Page 1",
+   "w": 375,
+   "h": 811,
+   "elements": 18,
+   "links": 5
+  },
+  {
+   "slug": "wizard-03",
+   "name": "Wizard 03",
+   "page": "Page 1",
+   "w": 375,
+   "h": 811,
+   "elements": 14,
+   "links": 2
+  },
+  {
+   "slug": "wizard-04",
+   "name": "Wizard 04",
+   "page": "Page 1",
+   "w": 375,
+   "h": 811,
+   "elements": 14,
+   "links": 2
+  },
+  {
+   "slug": "wizard-05",
+   "name": "Wizard 05",
+   "page": "Page 1",
+   "w": 375,
+   "h": 811,
+   "elements": 26,
+   "links": 2
+  },
+  {
+   "slug": "wizard-06",
+   "name": "Wizard 06",
+   "page": "Page 1",
+   "w": 375,
+   "h": 811,
+   "elements": 38,
+   "links": 2
+  },
+  {
+   "slug": "wizard-07",
+   "name": "Wizard 07",
+   "page": "Page 1",
+   "w": 375,
+   "h": 811,
+   "elements": 23,
+   "links": 2
+  },
+  {
+   "slug": "wizard-08",
+   "name": "Wizard 08",
+   "page": "Page 1",
+   "w": 375,
+   "h": 811,
+   "elements": 21,
+   "links": 2
+  },
+  {
+   "slug": "wizard-09",
+   "name": "Wizard 09",
+   "page": "Page 1",
+   "w": 375,
+   "h": 811,
+   "elements": 23,
+   "links": 2
+  },
+  {
+   "slug": "wizard-10",
+   "name": "Wizard 10",
+   "page": "Page 1",
+   "w": 375,
+   "h": 811,
+   "elements": 17,
+   "links": 2
+  },
+  {
+   "slug": "wizard-11",
+   "name": "Wizard 11",
+   "page": "Page 1",
+   "w": 375,
+   "h": 811,
+   "elements": 17,
+   "links": 2
+  },
+  {
+   "slug": "recommendations",
+   "name": "Recommendations",
+   "page": "Page 1",
+   "w": 375,
+   "h": 811,
+   "elements": 123,
+   "links": 2
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "inter",
+  "nunito-sans"
+ ]
+}
